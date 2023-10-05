@@ -31,6 +31,9 @@ namespace oblig3_grottegjengen
             {
                 if (value >= -180 && value <= 179)
                     posisjonX = value;
+
+                // else ?
+
             } 
         } //  PosisjonX skal være en verdi mellom -180 og +179
 
@@ -60,7 +63,7 @@ namespace oblig3_grottegjengen
             PosisjonX = 0;
             PosisjonY = 0;
             Id = 0;
-            Temperatur = 0; 
+            Maal();
         }
 
         public Tempraturmaaler(int id)
@@ -68,7 +71,7 @@ namespace oblig3_grottegjengen
             PosisjonX = 0;
             PosisjonY = 0;
             Id = id;
-            Temperatur = 0;
+            Maal();
         }
 
         public void Maal()
