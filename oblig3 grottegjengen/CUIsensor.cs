@@ -47,7 +47,7 @@ namespace oblig3_grottegjengen
                     Console.WriteLine($"{s.ToString()}");
                 }
 
-            //• utføre en måling for hver sensor
+       
 
 
         }
