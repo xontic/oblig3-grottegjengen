@@ -82,7 +82,7 @@ namespace oblig3_grottegjengen
         public void Maal()
         {
             temperatur = random.NextDouble() * 1273.1;
-            Console.WriteLine($"Målt Tempratur: {Temperatur}");
+            Console.WriteLine($"Målt Tempratur: {Temperatur:f1}");
         }
 
 

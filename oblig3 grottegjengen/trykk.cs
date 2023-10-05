@@ -40,12 +40,12 @@ namespace oblig3_grottegjengen
             public void Maal()
             {
                 trykk = 0.5 + (random.NextDouble() * 2); // Generates a random double pablo between 0.5 and 2.5
-                Console.WriteLine($"Målt trykk: {trykk}");
+                Console.WriteLine($"Målt trykk: {trykk:f1}");
             }
 
             public override string ToString()
             {
-                return $"Trykkmaaler: {Id} - Posisjon: ({PosisjonX}, {PosisjonY}) - Trykk: {Trykk}"; // pls lå det være som dette 
+                return $"Trykkmaaler: {Id} - Posisjon: ({PosisjonX}, {PosisjonY})"; // pls lå det være som dette 
             }
 
 
