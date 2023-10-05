@@ -25,10 +25,11 @@ namespace oblig3_grottegjengen
                 List<ISensor> sensor = new List<ISensor>(10);
 
                 for (int i = 0; i < 5; i++)
-                {
+                {   
                     sensor.Add(new Tempraturmaaler(i+1));
                     sensor[i].PosisjonX = 1;
                     sensor[i].PosisjonY = i + 1;
+                
                 }
 
                 for (int i = 5; i < 10; i++)
@@ -37,10 +38,13 @@ namespace oblig3_grottegjengen
                     sensor[i].PosisjonX = 2 * i - 9;
                     sensor[i].PosisjonY = 1;
                 }
-
+                foreach (var s in sensor) // for å legge til en verdi på sensoren i lista. må endre slik at det er fra enten temp eller trykk siden de har forsjellige intervaller 
+                {
+                     s.Maal(); // hvilken maal fra hvor trykk eller temp hvem vet ?
+                }
                 foreach (var s in sensor)
                 {
-                    Console.WriteLine($"Sensor ID: {s.Id}, Position: ({s.PosisjonX},{s.PosisjonY}), Res: {s.ToString()}");
+                    Console.WriteLine($"{s.ToString()}");
                 }
 
             //• utføre en måling for hver sensor

@@ -45,7 +45,7 @@ namespace oblig3_grottegjengen
 
             public override string ToString()
             {
-                return $"Trykkmaaler: {Id} - Posisjon: ({PosisjonX}, {PosisjonY}) - Trykk: {Trykk}";
+                return $"Trykkmaaler: {Id} - Posisjon: ({PosisjonX}, {PosisjonY}) - Trykk: {Trykk}"; // pls lå det være som dette 
             }
 
 

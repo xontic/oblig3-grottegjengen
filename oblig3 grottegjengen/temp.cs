@@ -3,13 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace oblig3_grottegjengen
 {
 
     //implementere lovlig PosisjonX-verdi skal være en verdi mellom -180 og + 179, lovlig PosisjonY skal være en verdi mellom -90 og +90.
     //ha et datamedlem til: temperatur(i Kelvin)
-    //ha en standardkonstruktør som setter objektets posisjon til(0,0), id til 0, og temperatur til 0.
+    //ha en standardkonstruktør som setter objekets posisjon til(0,0), id til 0, og temperatur til 0.
     //ha en «ett arguments»-konstruktør som tar inn id-verdi som argument.Posisjon skal settes til(0,0) og temperatur skal settes til 0.
     //omdefinere ToString funksjon ved å returnere en streng på følgende format: c-(a, b)
     //der a er PosisjonX-verdi, b er PosisjonY-verdi, og c er Id-verdi.
@@ -21,6 +22,10 @@ namespace oblig3_grottegjengen
     {
         private double temperatur; 
         private static readonly Random random = new Random();
+
+        private double posisjonX; 
+        private double posisjonY; 
+
         public double PosisjonX { 
             
             get 
@@ -63,7 +68,7 @@ namespace oblig3_grottegjengen
             PosisjonX = 0;
             PosisjonY = 0;
             Id = 0;
-            Maal();
+            temperatur = 0;
         }
 
         public Tempraturmaaler(int id)
@@ -71,7 +76,7 @@ namespace oblig3_grottegjengen
             PosisjonX = 0;
             PosisjonY = 0;
             Id = id;
-            Maal();
+            temperatur = 0;
         }
 
         public void Maal()
@@ -80,9 +85,13 @@ namespace oblig3_grottegjengen
             Console.WriteLine($"Målt Tempratur: {Temperatur}");
         }
 
+
+        //ToString funksjon ved å returnere en streng på følgende format:
+        //c-(a, b)
+        //der a er PosisjonX-verdi, b er PosisjonY-verdi, og c er Id-verdi.
         public override string ToString()
         {
-            return $"Tempraturmaaler: {Id} - Posisjon: ({PosisjonX}, {PosisjonY}) - Tempratur: {Temperatur}";
+            return $"{Id}-({PosisjonX}, {PosisjonY})";
         }
 
 

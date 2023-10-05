@@ -9,13 +9,13 @@ namespace oblig3_grottegjengen
     interface ISensor
     {
       
-            //  PosisjonX skal være en verdi mellom -180 og +179
+        
             double PosisjonX
             {
                 get;
                 set;
             }
-            //  PosisjonY skal være en verdi mellom -90 og +90
+            
             double PosisjonY
             {
                 get;
