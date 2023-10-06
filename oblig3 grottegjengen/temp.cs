@@ -91,7 +91,7 @@ namespace oblig3_grottegjengen
         //der a er PosisjonX-verdi, b er PosisjonY-verdi, og c er Id-verdi.
         public override string ToString()
         {
-            return $"{Id}-({PosisjonX}, {PosisjonY})";
+            return $"Temperaturmaaler: {Id:D2} - Posisjon: ({PosisjonX}, {PosisjonY})"; // valgte å skive ToString som dette issteden for c-(a,b) for å gjøre det mer oversiktlig for hva type sensor det er. 
         }
 
 

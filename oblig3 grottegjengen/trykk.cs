@@ -46,7 +46,7 @@ namespace oblig3_grottegjengen
             
             public override string ToString()
             {
-                return $"Trykkmaaler: {Id} - Posisjon: ({PosisjonX}, {PosisjonY})"; // pls lå det være som dette 
+                return $"Trykkmaaler: {Id:D2} - Posisjon: ({PosisjonX}, {PosisjonY})"; // valgte å skive ToString som dette issteden for c-(a,b) for å gjøre det mer oversiktlig for hva type sensor det er. 
             }
 
 
