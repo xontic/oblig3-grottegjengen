@@ -19,7 +19,17 @@ namespace oblig3_grottegjengen
 
     internal class Tempraturmaaler : ISensor
 
+
     {
+
+        // Implementere get-property for datamedlemmet temperatur.
+        // Ha et datamedlem til: temperatur (i Kelvin)
+
+
+
+
+
+
         private double temperatur; 
         private static readonly Random random = new Random();
 

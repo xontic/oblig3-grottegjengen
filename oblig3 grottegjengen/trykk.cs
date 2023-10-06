@@ -9,6 +9,8 @@ namespace oblig3_grottegjengen
     internal class Trykkmaaler : ISensor
 
     {
+
+     
         private double trykk;
         private static readonly Random random = new Random();
         public double PosisjonX { get; set; }
