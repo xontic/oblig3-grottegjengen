@@ -8,29 +8,11 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 namespace oblig3_grottegjengen
 {
 
-    //implementere lovlig PosisjonX-verdi skal være en verdi mellom -180 og + 179, lovlig PosisjonY skal være en verdi mellom -90 og +90.
-    //ha et datamedlem til: temperatur(i Kelvin)
-    //ha en standardkonstruktør som setter objekets posisjon til(0,0), id til 0, og temperatur til 0.
-    //ha en «ett arguments»-konstruktør som tar inn id-verdi som argument.Posisjon skal settes til(0,0) og temperatur skal settes til 0.
-    //omdefinere ToString funksjon ved å returnere en streng på følgende format: c-(a, b)
-    //der a er PosisjonX-verdi, b er PosisjonY-verdi, og c er Id-verdi.
-    //implementere metoden Maal() slik at den lagrer et tilfeldig flyttall mellom 0,0 og 1273,1 i datamedlemmet temperatur.
-    //Implementere get-property for datamedlemmet temperatur.
-
     internal class Tempraturmaaler : ISensor
 
 
     {
-
-        // Implementere get-property for datamedlemmet temperatur.
-        // Ha et datamedlem til: temperatur (i Kelvin)
-
-
-
-
-
-
-        private double temperatur; 
+        private double temperatur; // anta det alltid er i kelvin
         private static readonly Random random = new Random();
 
         private double posisjonX; 
@@ -47,15 +29,13 @@ namespace oblig3_grottegjengen
                 if (value >= -180 && value <= 179)
                     posisjonX = value;
 
-                // else ?
-
             } 
-        } //  PosisjonX skal være en verdi mellom -180 og +179
+        } 
 
         public double PosisjonY {
             get 
             {
-                return posisjonY; // hvorfor er det feil her 
+                return posisjonY; 
             }
             set 
             {
@@ -64,8 +44,8 @@ namespace oblig3_grottegjengen
             } 
         
         
-        } //  PosisjonY skal være en verdi mellom -90 og +90
-        public int Id { get; set; } //  Id skal være en verdi mellom 0 og 999
+        } 
+        public int Id { get; set; } 
 
         public double Temperatur
         {
@@ -95,10 +75,6 @@ namespace oblig3_grottegjengen
             Console.WriteLine($"Målt Tempratur: {Temperatur:f1}");
         }
 
-
-        //ToString funksjon ved å returnere en streng på følgende format:
-        //c-(a, b)
-        //der a er PosisjonX-verdi, b er PosisjonY-verdi, og c er Id-verdi.
         public override string ToString()
         {
             return $"Temperaturmaaler: {Id:D2} - Posisjon: ({PosisjonX}, {PosisjonY} Målt Tempratur: {Temperatur:f1})"; // valgte å skive ToString som dette issteden for c-(a,b) for å gjøre det mer oversiktlig for hva type sensor det er. 
