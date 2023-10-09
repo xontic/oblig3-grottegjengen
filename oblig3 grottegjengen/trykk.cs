@@ -9,8 +9,6 @@ namespace oblig3_grottegjengen
     internal class Trykkmaaler : ISensor
 
     {
-
-     
         private double trykk;
         private static readonly Random random = new Random();
         public double PosisjonX { get; set; }
@@ -48,7 +46,7 @@ namespace oblig3_grottegjengen
             
             public override string ToString()
             {
-                return $"Trykkmaaler: {Id:D2} - Posisjon: ({PosisjonX}, {PosisjonY})"; // valgte å skive ToString som dette issteden for c-(a,b) for å gjøre det mer oversiktlig for hva type sensor det er. 
+                return $"Trykkmaaler: {Id:D2} - Posisjon: ({PosisjonX}, {PosisjonY}) - Målt trykk: {trykk:f1}"; // valgte å skive ToString som dette issteden for c-(a,b) for å gjøre det mer oversiktlig for hva type sensor det er. 
             }
 
 
