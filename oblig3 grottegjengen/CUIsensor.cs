@@ -27,24 +27,25 @@ namespace oblig3_grottegjengen
                     sensor[i].PosisjonY = 1;
                 }
 
-                //foreach (var s in sensor) // dette er en foreach som går gjennom alle sensorene og måler dem.
-                //{
-                //     s.Maal(); 
-                //}
-            foreach (var s in sensor) 
+            foreach (var s in sensor) // dette er en foreach som går gjennom alle sensorene og måler dem.
             {
-                if (s is Tempraturmaaler) // dette er en if som sjekker om sensoren er en tempraturmaaler eller trykkmaaler og måler dem.
-                {
-
-                    Tempraturmaaler temp = s as Tempraturmaaler; 
-                    temp.Maal();  
-                }
-                else if (s is Trykkmaaler) 
-                {
-                    Trykkmaaler trykk = s as Trykkmaaler;
-                    trykk.Maal();  
-                }
+                s.Maal();
             }
+
+            //foreach (var s in sensor) // annen måte å løse oppgaven på.
+            //{
+            //    if (s is Tempraturmaaler) // dette er en if som sjekker om sensoren er en tempraturmaaler eller trykkmaaler og måler dem.
+            //    {
+
+            //        Tempraturmaaler temp = s as Tempraturmaaler;
+            //        temp.Maal();
+            //    }
+            //    else if (s is Trykkmaaler)
+            //    {
+            //        Trykkmaaler trykk = s as Trykkmaaler;
+            //        trykk.Maal();
+            //    }
+            //}
 
             foreach (var s in sensor)
                 {
