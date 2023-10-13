@@ -1,0 +1,65 @@
+C:\Users\alber\OneDrive - Høgskulen på Vestlandet\ELE205\GUISensor.exe\GUISensor.exe\bin\Debug\net7.0-windows\GUISensor.exe.exe
+C:\Users\alber\OneDrive - Høgskulen på Vestlandet\ELE205\GUISensor.exe\GUISensor.exe\bin\Debug\net7.0-windows\GUISensor.exe.deps.json
+C:\Users\alber\OneDrive - Høgskulen på Vestlandet\ELE205\GUISensor.exe\GUISensor.exe\bin\Debug\net7.0-windows\GUISensor.exe.runtimeconfig.json
+C:\Users\alber\OneDrive - Høgskulen på Vestlandet\ELE205\GUISensor.exe\GUISensor.exe\bin\Debug\net7.0-windows\GUISensor.exe.dll
+C:\Users\alber\OneDrive - Høgskulen på Vestlandet\ELE205\GUISensor.exe\GUISensor.exe\bin\Debug\net7.0-windows\GUISensor.exe.pdb
+C:\Users\alber\OneDrive - Høgskulen på Vestlandet\ELE205\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.Form1.resources
+C:\Users\alber\OneDrive - Høgskulen på Vestlandet\ELE205\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.csproj.GenerateResource.cache
+C:\Users\alber\OneDrive - Høgskulen på Vestlandet\ELE205\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\OneDrive - Høgskulen på Vestlandet\ELE205\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive - Høgskulen på Vestlandet\ELE205\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.AssemblyInfo.cs
+C:\Users\alber\OneDrive - Høgskulen på Vestlandet\ELE205\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive - Høgskulen på Vestlandet\ELE205\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.dll
+C:\Users\alber\OneDrive - Høgskulen på Vestlandet\ELE205\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\refint\GUISensor.exe.dll
+C:\Users\alber\OneDrive - Høgskulen på Vestlandet\ELE205\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.pdb
+C:\Users\alber\OneDrive - Høgskulen på Vestlandet\ELE205\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.genruntimeconfig.cache
+C:\Users\alber\OneDrive - Høgskulen på Vestlandet\ELE205\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\ref\GUISensor.exe.dll
+D:\Visual Stuido Codes\GUISensor.exe\GUISensor.exe\bin\Debug\net7.0-windows\GUISensor.exe.exe
+D:\Visual Stuido Codes\GUISensor.exe\GUISensor.exe\bin\Debug\net7.0-windows\GUISensor.exe.deps.json
+D:\Visual Stuido Codes\GUISensor.exe\GUISensor.exe\bin\Debug\net7.0-windows\GUISensor.exe.runtimeconfig.json
+D:\Visual Stuido Codes\GUISensor.exe\GUISensor.exe\bin\Debug\net7.0-windows\GUISensor.exe.dll
+D:\Visual Stuido Codes\GUISensor.exe\GUISensor.exe\bin\Debug\net7.0-windows\GUISensor.exe.pdb
+D:\Visual Stuido Codes\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.Form1.resources
+D:\Visual Stuido Codes\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.csproj.GenerateResource.cache
+D:\Visual Stuido Codes\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Stuido Codes\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.AssemblyInfoInputs.cache
+D:\Visual Stuido Codes\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.AssemblyInfo.cs
+D:\Visual Stuido Codes\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.csproj.CoreCompileInputs.cache
+D:\Visual Stuido Codes\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.dll
+D:\Visual Stuido Codes\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\refint\GUISensor.exe.dll
+D:\Visual Stuido Codes\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.pdb
+D:\Visual Stuido Codes\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.genruntimeconfig.cache
+D:\Visual Stuido Codes\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\ref\GUISensor.exe.dll
+C:\Users\ols\source\repos\H23-ELE205\Fra studenter\GUISensor.exe\GUISensor.exe\bin\Debug\net7.0-windows\GUISensor.exe.exe
+C:\Users\ols\source\repos\H23-ELE205\Fra studenter\GUISensor.exe\GUISensor.exe\bin\Debug\net7.0-windows\GUISensor.exe.deps.json
+C:\Users\ols\source\repos\H23-ELE205\Fra studenter\GUISensor.exe\GUISensor.exe\bin\Debug\net7.0-windows\GUISensor.exe.runtimeconfig.json
+C:\Users\ols\source\repos\H23-ELE205\Fra studenter\GUISensor.exe\GUISensor.exe\bin\Debug\net7.0-windows\GUISensor.exe.dll
+C:\Users\ols\source\repos\H23-ELE205\Fra studenter\GUISensor.exe\GUISensor.exe\bin\Debug\net7.0-windows\GUISensor.exe.pdb
+C:\Users\ols\source\repos\H23-ELE205\Fra studenter\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.csproj.AssemblyReference.cache
+C:\Users\ols\source\repos\H23-ELE205\Fra studenter\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.Form1.resources
+C:\Users\ols\source\repos\H23-ELE205\Fra studenter\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.csproj.GenerateResource.cache
+C:\Users\ols\source\repos\H23-ELE205\Fra studenter\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ols\source\repos\H23-ELE205\Fra studenter\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.AssemblyInfoInputs.cache
+C:\Users\ols\source\repos\H23-ELE205\Fra studenter\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.AssemblyInfo.cs
+C:\Users\ols\source\repos\H23-ELE205\Fra studenter\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.csproj.CoreCompileInputs.cache
+C:\Users\ols\source\repos\H23-ELE205\Fra studenter\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.dll
+C:\Users\ols\source\repos\H23-ELE205\Fra studenter\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\refint\GUISensor.exe.dll
+C:\Users\ols\source\repos\H23-ELE205\Fra studenter\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.pdb
+C:\Users\ols\source\repos\H23-ELE205\Fra studenter\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.genruntimeconfig.cache
+C:\Users\ols\source\repos\H23-ELE205\Fra studenter\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\ref\GUISensor.exe.dll
+D:\GUISensor.exe\GUISensor.exe\bin\Debug\net7.0-windows\GUISensor.exe.exe
+D:\GUISensor.exe\GUISensor.exe\bin\Debug\net7.0-windows\GUISensor.exe.deps.json
+D:\GUISensor.exe\GUISensor.exe\bin\Debug\net7.0-windows\GUISensor.exe.runtimeconfig.json
+D:\GUISensor.exe\GUISensor.exe\bin\Debug\net7.0-windows\GUISensor.exe.dll
+D:\GUISensor.exe\GUISensor.exe\bin\Debug\net7.0-windows\GUISensor.exe.pdb
+D:\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.Form1.resources
+D:\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.csproj.GenerateResource.cache
+D:\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.GeneratedMSBuildEditorConfig.editorconfig
+D:\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.AssemblyInfoInputs.cache
+D:\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.AssemblyInfo.cs
+D:\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.csproj.CoreCompileInputs.cache
+D:\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.dll
+D:\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\refint\GUISensor.exe.dll
+D:\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.pdb
+D:\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\GUISensor.exe.genruntimeconfig.cache
+D:\GUISensor.exe\GUISensor.exe\obj\Debug\net7.0-windows\ref\GUISensor.exe.dll
